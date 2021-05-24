@@ -1,2 +1,2 @@
 # BERT-Applications
-Notbooks for BERT applications like sentence classification, NER, etc.
+Notebooks for BERT applications like sentence classification, NER, etc.
